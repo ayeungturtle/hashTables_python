@@ -1,0 +1,2 @@
+# Understanding Hash Tables
+I created a hash-assigning function, using a simple ascii sum with modulo to have a fairly equal distribution within the list.  Then, I created an add and find function for the hash table.
